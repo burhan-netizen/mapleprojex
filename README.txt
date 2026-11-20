@@ -8,7 +8,7 @@ Preview:
 Included:
 - Responsive single-page website
 - Maple Projex supplied logo and project photography
-- Three supplied MP4 clips
+- 20 JPG images and 9 MP4 clips in a filterable project gallery
 - GSAP + ScrollTrigger reveal and parallax motion
 - Lenis smooth scrolling (CDN)
 - SEO title, description, keywords and JSON-LD GeneralContractor schema
